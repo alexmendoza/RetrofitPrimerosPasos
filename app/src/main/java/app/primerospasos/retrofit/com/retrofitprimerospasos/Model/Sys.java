@@ -4,29 +4,12 @@ package app.primerospasos.retrofit.com.retrofitprimerospasos.Model;
 
 public class Sys {
 
-    private Integer type;
-    private Integer id;
     private Float message;
     private String country;
     private Integer sunrise;
     private Integer sunset;
 
-
-    public Integer getType() {
-        return type;
-    }
-
-    public void setType(Integer type) {
-        this.type = type;
-    }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
+    //Metodos getter and setter
 
     public Float getMessage() {
         return message;

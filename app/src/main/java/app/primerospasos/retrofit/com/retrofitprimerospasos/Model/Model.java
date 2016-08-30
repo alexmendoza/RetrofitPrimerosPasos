@@ -20,6 +20,7 @@ public class Model {
     private String name;
     private Integer cod;
 
+    //Metodos getter and setter
 
     public Coord getCoord() {
         return coord;
@@ -72,6 +73,7 @@ public class Model {
     public Integer getDt() {
         return dt;
     }
+
 
     public void setDt(Integer dt) {
         this.dt = dt;

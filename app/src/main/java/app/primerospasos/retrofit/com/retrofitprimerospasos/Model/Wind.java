@@ -7,6 +7,8 @@ public class Wind {
     private Float speed;
     private Integer deg;
 
+    //Metodos getter and setter
+
     public Float getSpeed() {
         return speed;
     }

@@ -7,6 +7,8 @@ public class Coord {
     private Float lon;
     private Float lat;
 
+    //Metodos getter and setter
+
     public Float getLon() {
         return lon;
     }

@@ -6,6 +6,8 @@ public class Clouds {
 
     private Integer all;
 
+    //Metodos getter and setter
+
     public Integer getAll() {
         return all;
     }

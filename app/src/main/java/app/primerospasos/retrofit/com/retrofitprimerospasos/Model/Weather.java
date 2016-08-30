@@ -9,6 +9,7 @@ public class Weather {
     private String description;
     private String icon;
 
+    //Metodos getter and setters
 
     public Integer getId() {
         return id;
@@ -21,7 +22,6 @@ public class Weather {
     public String getMain() {
         return main;
     }
-
 
     public void setMain(String main) {
         this.main = main;
